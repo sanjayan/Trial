@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/chandrur/SanjayAnTrial/_apis/build/status/sanjayan.Trial)](https://dev.azure.com/chandrur/SanjayAnTrial/_build/latest?definitionId=126)
+
 # Sample Python app for VSTS and TFS docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/vsts/pipelines/languages/python).
